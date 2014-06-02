@@ -213,3 +213,33 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+
+############################
+##  Borland Compiler files
+############################
+bcc32.cfg
+bcc32.exe
+brc32.exe
+brcc32.exe
+bullitins.mak
+cc3250.dll
+cc3250mt.dll
+coff2omf.exe
+cpp32.exe
+fconvert.exe
+grep.exe
+ilink32.cfg
+ilink32.exe
+impdef.exe
+implib.exe
+lnkdfm50.dll
+rlink32.dll
+rw32core.dll
+tdump.exe
+tlib.exe
+touch.exe
+trigraph.exe
+make.exe
+
+
