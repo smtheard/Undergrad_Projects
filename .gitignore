@@ -222,7 +222,7 @@ bcc32.cfg
 bcc32.exe
 brc32.exe
 brcc32.exe
-bullitins.mak
+builtins.mak
 cc3250.dll
 cc3250mt.dll
 coff2omf.exe
@@ -242,4 +242,13 @@ touch.exe
 trigraph.exe
 make.exe
 
+
+#Homework turn in folders
+HW01_1208198_Theard/
+HW02_1208198_Theard/
+HW03_1208198_Theard/
+HW04_1208198_Theard/
+HW05_1208198_Theard/
+HW06_1208198_Theard/
+HW07_1208198_Theard/
 
