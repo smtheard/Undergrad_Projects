@@ -1,0 +1,23 @@
+[main] minmax 1000 (0) exception: trapped!
+[main] minmax 1000 (0) exception: code 0xC00000FD at 0x40161A
+[main] minmax 1000 (0) exception: ax 0x0 bx 0x248FEA4 cx 0x0 dx 0x0
+[main] minmax 1000 (0) exception: si 0xA031600 di 0x248FE48 bp 0x493028 sp 0x492FE8
+[main] minmax 1000 (0) exception: exception is: STATUS_STACK_OVERFLOW
+[main] minmax 1000 (0) stack: Stack trace:
+[main] minmax 1000 (0) stack: frame 0: sp = 0x492B88, pc = 0x6100A2C3
+[main] minmax 1000 (0) stack: frame 1: sp = 0x492BC4, pc = 0x77D0B499
+[main] minmax 1000 (0) stack: frame 2: sp = 0x492BE8, pc = 0x77D0B46B
+[main] minmax 1000 (0) stack: frame 3: sp = 0x492C98, pc = 0x77CC0133
+[main] minmax 1000 (0) stack: frame 4: sp = 0x493028, pc = 0x401817
+[main] minmax 1000 (0) stack: frame 5: sp = 0x49308C, pc = 0x401817
+[main] minmax 1000 (0) stack: frame 6: sp = 0x4930F0, pc = 0x401817
+[main] minmax 1000 (0) stack: frame 7: sp = 0x493154, pc = 0x401817
+[main] minmax 1000 (0) stack: frame 8: sp = 0x4931B8, pc = 0x401817
+[main] minmax 1000 (0) stack: frame 9: sp = 0x49321C, pc = 0x401817
+[main] minmax 1000 (0) stack: frame 10: sp = 0x493280, pc = 0x401817
+[main] minmax 1000 (0) stack: frame 11: sp = 0x4932E4, pc = 0x401817
+[main] minmax 1000 (0) stack: frame 12: sp = 0x493348, pc = 0x401817
+[main] minmax 1000 (0) stack: frame 13: sp = 0x4933AC, pc = 0x401817
+[main] minmax 1000 (0) stack: frame 14: sp = 0x493410, pc = 0x401817
+[main] minmax 1000 (0) stack: frame 15: sp = 0x493474, pc = 0x401817
+[main] minmax 1000 (0) stack: End of stack trace (more stack frames may be present)

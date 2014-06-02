@@ -1,0 +1,26 @@
+3
+Titanic
+Kate Winslet
+Leonardo DiCaprio
+Cameron
+Cameron
+20th Century Fox
+2
+Jerry MacGuire
+Tom Cruise
+Renne Zellwegger
+Brooks
+Crowe
+United Artists
+18
+Rain Man
+Dustin Hoffman
+Tom Cruise
+Johnson
+Levinson
+United Artists
+2
+Donald Duck 1
+Mickey Mouse 2
+Minnie Mouse 3
+Goofy Dog 4
