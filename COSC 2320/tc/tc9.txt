@@ -1,0 +1,4 @@
+read(L5,'tc\in5.txt')
+read(L7,'tc\in7.txt')
+union(L5,L7,S)
+write(S,'out\out9.txt',reverse)

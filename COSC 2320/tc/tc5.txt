@@ -1,0 +1,4 @@
+read(L3,'tc\in3.txt')
+read(L4,'tc\in4.txt')
+intersection(L3,L4,I2)
+write(I2,'out\out5.txt',forward)

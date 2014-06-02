@@ -1,0 +1,2599 @@
+||||||||||||| Start log for script file script-easy.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in R1 340
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 80
+Size in memory after delete all in R2 0
+||||||||||||| End log for script file script-easy.txt |||||||||||||
+||||||||||||| Start log for script file script-medium.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in R3 220
+Size in memory after delete all in R3 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R4 312
+Size in memory after delete all in R4 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in union35 344
+Size in memory after delete all in union35 0
+Size in memory before delete all in R5 428
+Size in memory after delete all in R5 0
+||||||||||||| End log for script file script-medium.txt |||||||||||||
+||||||||||||| Start log for script file script-hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union6 204
+Size in memory after delete all in union6 0
+Size in memory before delete all in union67 336
+Size in memory after delete all in union67 0
+Size in memory before delete all in union678 520
+Size in memory after delete all in union678 0
+Size in memory before delete all in union6789 544
+Size in memory after delete all in union6789 0
+Size in memory before delete all in R6 624
+Size in memory after delete all in R6 0
+Size in memory before delete all in intersect6 48
+Size in memory after delete all in intersect6 0
+Size in memory before delete all in intersect67 24
+Size in memory after delete all in intersect67 0
+Size in memory before delete all in intersect678 16
+Size in memory after delete all in intersect678 0
+Size in memory before delete all in intersect6789 16
+Size in memory after delete all in intersect6789 0
+Size in memory before delete all in R7 12
+Size in memory after delete all in R7 0
+Size in memory before delete all in R8 624
+Size in memory after delete all in R8 0
+||||||||||||| End log for script file script-hard.txt |||||||||||||
+||||||||||||| Start log for script file script-very_hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+write reverse function cannot find list R9
+either ( or intersect3 do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union5 304
+Size in memory after delete all in union5 0
+Size in memory before delete all in union56 504
+Size in memory after delete all in union56 0
+Size in memory before delete all in union567 528
+Size in memory after delete all in union567 0
+Size in memory before delete all in union5678 608
+Size in memory after delete all in union5678 0
+Size in memory before delete all in intersect3 80
+Size in memory after delete all in intersect3 0
+||||||||||||| End log for script file script-very_hard.txt |||||||||||||
+||||||||||||| Start log for script file script-very_hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+write reverse function cannot find list R9
+either 2 or L do not exist therefore the union cannot be executed
+either ( or intersect4 do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union5 304
+Size in memory after delete all in union5 0
+Size in memory before delete all in union56 504
+Size in memory after delete all in union56 0
+Size in memory before delete all in union567 528
+Size in memory after delete all in union567 0
+Size in memory before delete all in union5678 608
+Size in memory after delete all in union5678 0
+||||||||||||| End log for script file script-very_hard.txt |||||||||||||
+||||||||||||| Start log for script file script-very_hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+write reverse function cannot find list R9
+either 2 or L do not exist therefore the union cannot be executed
+either ( or intersect4 do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union24 372
+Size in memory after delete all in union24 0
+Size in memory before delete all in union246 484
+Size in memory after delete all in union246 0
+Size in memory before delete all in union2468 608
+Size in memory after delete all in union2468 0
+||||||||||||| End log for script file script-very_hard.txt |||||||||||||
+||||||||||||| Start log for script file script-very_hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+either L2 or L14ads do not exist therefore the union cannot be executed
+either L3 or union2 do not exist therefore the union cannot be executed
+either L4 or union24 do not exist therefore the union cannot be executed
+either L5 or union246 do not exist therefore the union cannot be executed
+write reverse function cannot find list R9
+either 2 or L do not exist therefore the union cannot be executed
+either ( or intersect4 do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+||||||||||||| End log for script file script-very_hard.txt |||||||||||||
+||||||||||||| Start log for script file script-very_hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+write reverse function cannot find list R9
+either 2 or L do not exist therefore the union cannot be executed
+either ( or intersect4 do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union24 372
+Size in memory after delete all in union24 0
+Size in memory before delete all in union246 484
+Size in memory after delete all in union246 0
+Size in memory before delete all in union2468 608
+Size in memory after delete all in union2468 0
+||||||||||||| End log for script file script-very_hard.txt |||||||||||||
+||||||||||||| Start log for script file script-very_hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+either 2 or L do not exist therefore the union cannot be executed
+either ( or intersect4 do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union24 372
+Size in memory after delete all in union24 0
+Size in memory before delete all in union246 484
+Size in memory after delete all in union246 0
+Size in memory before delete all in union2468 608
+Size in memory after delete all in union2468 0
+||||||||||||| End log for script file script-very_hard.txt |||||||||||||
+||||||||||||| Start log for script file script-hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+either 6 or L do not exist therefore the union cannot be executed
+either 6 or L do not exist therefore the union cannot be executed
+either intersect7 or L5 do not exist therefore the union cannot be executed
+either intersect78 or L4 do not exist therefore the union cannot be executed
+either intersect789 or L3 do not exist therefore the union cannot be executed
+either intersect78910 or L2 do not exist therefore the union cannot be executed
+either 7 or R do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union24 372
+Size in memory after delete all in union24 0
+Size in memory before delete all in union246 484
+Size in memory after delete all in union246 0
+Size in memory before delete all in union2468 608
+Size in memory after delete all in union2468 0
+||||||||||||| End log for script file script-hard.txt |||||||||||||
+||||||||||||| Start log for script file script-medium.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+either 3 or L do not exist therefore the union cannot be executed
+either 3 or L do not exist therefore the union cannot be executed
+either intersect4 or L2 do not exist therefore the union cannot be executed
+either 4 or L do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in union34 312
+Size in memory after delete all in union34 0
+||||||||||||| End log for script file script-medium.txt |||||||||||||
+||||||||||||| Start log for script file script-easy.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+either 2 or L do not exist therefore the union cannot be executed
+either 2 or L do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+||||||||||||| End log for script file script-easy.txt |||||||||||||
+||||||||||||| Start log for script file script-very_hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+either 2 or L do not exist therefore the union cannot be executed
+either ( or intersect4 do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union24 372
+Size in memory after delete all in union24 0
+Size in memory before delete all in union246 484
+Size in memory after delete all in union246 0
+Size in memory before delete all in union2468 608
+Size in memory after delete all in union2468 0
+||||||||||||| End log for script file script-very_hard.txt |||||||||||||
+||||||||||||| Start log for script file script-easy.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+either 2 or L do not exist therefore the union cannot be executed
+either 2 or L do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+||||||||||||| End log for script file script-easy.txt |||||||||||||
+||||||||||||| Start log for script file script-medium.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+either 3 or L do not exist therefore the union cannot be executed
+either 3 or L do not exist therefore the union cannot be executed
+either intersect4 or L2 do not exist therefore the union cannot be executed
+either 4 or L do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in union34 312
+Size in memory after delete all in union34 0
+||||||||||||| End log for script file script-medium.txt |||||||||||||
+||||||||||||| Start log for script file script-hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+either 6 or L do not exist therefore the union cannot be executed
+either 6 or L do not exist therefore the union cannot be executed
+either intersect7 or L5 do not exist therefore the union cannot be executed
+either intersect78 or L4 do not exist therefore the union cannot be executed
+either intersect789 or L3 do not exist therefore the union cannot be executed
+either intersect78910 or L2 do not exist therefore the union cannot be executed
+either 7 or R do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union24 372
+Size in memory after delete all in union24 0
+Size in memory before delete all in union246 484
+Size in memory after delete all in union246 0
+Size in memory before delete all in union2468 608
+Size in memory after delete all in union2468 0
+||||||||||||| End log for script file script-hard.txt |||||||||||||
+||||||||||||| Start log for script file script-very_hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+either 2 or L do not exist therefore the union cannot be executed
+either ( or intersect4 do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union24 372
+Size in memory after delete all in union24 0
+Size in memory before delete all in union246 484
+Size in memory after delete all in union246 0
+Size in memory before delete all in union2468 608
+Size in memory after delete all in union2468 0
+||||||||||||| End log for script file script-very_hard.txt |||||||||||||
+||||||||||||| Start log for script file script-medium.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+either 3 or L do not exist therefore the union cannot be executed
+either 3 or L do not exist therefore the union cannot be executed
+either intersect4 or L2 do not exist therefore the union cannot be executed
+either 4 or L do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in union34 312
+Size in memory after delete all in union34 0
+||||||||||||| End log for script file script-medium.txt |||||||||||||
+||||||||||||| Start log for script file script-medium.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+||||||||||||| Start log for script file script-medium.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+either 3 or L do not exist therefore the union cannot be executed
+either 3 or L do not exist therefore the union cannot be executed
+either intersect4 or L2 do not exist therefore the union cannot be executed
+either 4 or L do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in union34 312
+Size in memory after delete all in union34 0
+||||||||||||| End log for script file script-medium.txt |||||||||||||
+||||||||||||| Start log for script file script-medium.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+either 3 or L3 do not exist therefore the union cannot be executed
+either 3 or L3 do not exist therefore the union cannot be executed
+either intersect4 or L2 do not exist therefore the union cannot be executed
+either 4 or L4 do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in union34 312
+Size in memory after delete all in union34 0
+||||||||||||| End log for script file script-medium.txt |||||||||||||
+||||||||||||| Start log for script file script-medium.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+either 3 or L3 do not exist therefore the union cannot be executed
+either 3 or L3 do not exist therefore the union cannot be executed
+either intersect4 or L2 do not exist therefore the union cannot be executed
+either 4 or L4 do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in union34 312
+Size in memory after delete all in union34 0
+||||||||||||| End log for script file script-medium.txt |||||||||||||
+||||||||||||| Start log for script file script-medium.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+either 3 or L3 do not exist therefore the union cannot be executed
+either 3 or L3 do not exist therefore the union cannot be executed
+either intersect4 or L2 do not exist therefore the union cannot be executed
+either 4 or L4 do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in union34 312
+Size in memory after delete all in union34 0
+||||||||||||| End log for script file script-medium.txt |||||||||||||
+||||||||||||| Start log for script file script-medium.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+either 3 or L3 do not exist therefore the union cannot be executed
+either 3 or L3 do not exist therefore the union cannot be executed
+either intersect4 or L2 do not exist therefore the union cannot be executed
+either 4 or L4 do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in union34 312
+Size in memory after delete all in union34 0
+||||||||||||| End log for script file script-medium.txt |||||||||||||
+||||||||||||| Start log for script file script-medium.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+||||||||||||| End log for script file script-medium.txt |||||||||||||
+||||||||||||| Start log for script file script-medium.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in R3 220
+Size in memory after delete all in R3 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R4 312
+Size in memory after delete all in R4 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in union34 312
+Size in memory after delete all in union34 0
+Size in memory before delete all in R5 428
+Size in memory after delete all in R5 0
+||||||||||||| End log for script file script-medium.txt |||||||||||||
+||||||||||||| Start log for script file script-hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union24 372
+Size in memory after delete all in union24 0
+Size in memory before delete all in union246 484
+Size in memory after delete all in union246 0
+Size in memory before delete all in union2468 608
+Size in memory after delete all in union2468 0
+Size in memory before delete all in R6 624
+Size in memory after delete all in R6 0
+Size in memory before delete all in intersect6 48
+Size in memory after delete all in intersect6 0
+Size in memory before delete all in intersect67 24
+Size in memory after delete all in intersect67 0
+Size in memory before delete all in intersect678 16
+Size in memory after delete all in intersect678 0
+Size in memory before delete all in intersect6789 16
+Size in memory after delete all in intersect6789 0
+Size in memory before delete all in R7 12
+Size in memory after delete all in R7 0
+Size in memory before delete all in R8 624
+Size in memory after delete all in R8 0
+||||||||||||| End log for script file script-hard.txt |||||||||||||
+||||||||||||| Start log for script file script-very_hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+either ( or intersect3 do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union24 372
+Size in memory after delete all in union24 0
+Size in memory before delete all in union246 484
+Size in memory after delete all in union246 0
+Size in memory before delete all in union2468 608
+Size in memory after delete all in union2468 0
+Size in memory before delete all in intersect3 80
+Size in memory after delete all in intersect3 0
+||||||||||||| End log for script file script-very_hard.txt |||||||||||||
+||||||||||||| Start log for script file script-easy.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in R1 340
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 80
+Size in memory after delete all in R2 0
+||||||||||||| End log for script file script-easy.txt |||||||||||||
+||||||||||||| Start log for script file script-easy.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in R1 340
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 80
+Size in memory after delete all in R2 0
+||||||||||||| End log for script file script-easy.txt |||||||||||||
+||||||||||||| Start log for script file script-medium.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in R3 220
+Size in memory after delete all in R3 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R4 312
+Size in memory after delete all in R4 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in union34 312
+Size in memory after delete all in union34 0
+Size in memory before delete all in R5 428
+Size in memory after delete all in R5 0
+||||||||||||| End log for script file script-medium.txt |||||||||||||
+||||||||||||| Start log for script file script-hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union24 372
+Size in memory after delete all in union24 0
+Size in memory before delete all in union246 484
+Size in memory after delete all in union246 0
+Size in memory before delete all in union2468 608
+Size in memory after delete all in union2468 0
+Size in memory before delete all in R6 624
+Size in memory after delete all in R6 0
+Size in memory before delete all in intersect6 48
+Size in memory after delete all in intersect6 0
+Size in memory before delete all in intersect67 24
+Size in memory after delete all in intersect67 0
+Size in memory before delete all in intersect678 16
+Size in memory after delete all in intersect678 0
+Size in memory before delete all in intersect6789 16
+Size in memory after delete all in intersect6789 0
+Size in memory before delete all in R7 12
+Size in memory after delete all in R7 0
+Size in memory before delete all in R8 624
+Size in memory after delete all in R8 0
+||||||||||||| End log for script file script-hard.txt |||||||||||||
+||||||||||||| Start log for script file script-very_hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Stack underflow, not enough arguments for union for operation involving R6
+Stack underflow, not enough arguments for intersection for operation involving R7
+either ( or intersect3 do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union24 372
+Size in memory after delete all in union24 0
+Size in memory before delete all in union246 484
+Size in memory after delete all in union246 0
+Size in memory before delete all in union2468 608
+Size in memory after delete all in union2468 0
+Size in memory before delete all in intersect3 80
+Size in memory after delete all in intersect3 0
+||||||||||||| End log for script file script-very_hard.txt |||||||||||||
+||||||||||||| Start log for script file script-easy.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in R1 340
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 80
+Size in memory after delete all in R2 0
+||||||||||||| End log for script file script-easy.txt |||||||||||||
+||||||||||||| Start log for script file script-medium.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in R3 220
+Size in memory after delete all in R3 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R4 312
+Size in memory after delete all in R4 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in union34 312
+Size in memory after delete all in union34 0
+Size in memory before delete all in R5 428
+Size in memory after delete all in R5 0
+||||||||||||| End log for script file script-medium.txt |||||||||||||
+||||||||||||| Start log for script file script-hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union24 372
+Size in memory after delete all in union24 0
+Size in memory before delete all in union246 484
+Size in memory after delete all in union246 0
+Size in memory before delete all in union2468 608
+Size in memory after delete all in union2468 0
+Size in memory before delete all in R6 624
+Size in memory after delete all in R6 0
+Size in memory before delete all in intersect6 48
+Size in memory after delete all in intersect6 0
+Size in memory before delete all in intersect67 24
+Size in memory after delete all in intersect67 0
+Size in memory before delete all in intersect678 16
+Size in memory after delete all in intersect678 0
+Size in memory before delete all in intersect6789 16
+Size in memory after delete all in intersect6789 0
+Size in memory before delete all in R7 12
+Size in memory after delete all in R7 0
+Size in memory before delete all in R8 624
+Size in memory after delete all in R8 0
+||||||||||||| End log for script file script-hard.txt |||||||||||||
+||||||||||||| Start log for script file script-very_hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Stack underflow, not enough arguments for union for operation involving R6
+Stack underflow, not enough arguments for intersection for operation involving R7
+either ( or intersect3 do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union24 372
+Size in memory after delete all in union24 0
+Size in memory before delete all in union246 484
+Size in memory after delete all in union246 0
+Size in memory before delete all in union2468 608
+Size in memory after delete all in union2468 0
+Size in memory before delete all in intersect3 80
+Size in memory after delete all in intersect3 0
+||||||||||||| End log for script file script-very_hard.txt |||||||||||||
+||||||||||||| Start log for script file input.script1 |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory before delete all in A 20
+Size in memory after delete all in A 0
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in R1 28
+Size in memory after delete all in R1 0
+Size in memory before delete all in C 8
+Size in memory after delete all in C 0
+Size in memory before delete all in intersect3 4
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R2 20
+Size in memory after delete all in R2 0
+||||||||||||| End log for script file input.script1 |||||||||||||
+||||||||||||| Start log for script file input.script2 |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory before delete all in A 20
+Size in memory after delete all in A 0
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in C 8
+Size in memory after delete all in C 0
+Size in memory before delete all in R1 28
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 0
+Size in memory after delete all in R2 0
+Size in memory before delete all in intersect3 4
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R3 20
+Size in memory after delete all in R3 0
+Size in memory before delete all in union2 28
+Size in memory after delete all in union2 0
+Size in memory before delete all in R4 8
+Size in memory after delete all in R4 0
+Size in memory before delete all in union2 28
+Size in memory after delete all in union2 0
+Size in memory before delete all in intersect24 8
+Size in memory after delete all in intersect24 0
+Size in memory before delete all in R5 20
+Size in memory after delete all in R5 0
+||||||||||||| End log for script file input.script2 |||||||||||||
+||||||||||||| Start log for script file input.script1 |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory before delete all in A 20
+Size in memory after delete all in A 0
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in R1 28
+Size in memory after delete all in R1 0
+Size in memory before delete all in C 8
+Size in memory after delete all in C 0
+Size in memory before delete all in intersect3 4
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R2 20
+Size in memory after delete all in R2 0
+||||||||||||| End log for script file input.script1 |||||||||||||
+||||||||||||| Start log for script file input.script2 |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory before delete all in A 20
+Size in memory after delete all in A 0
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in C 8
+Size in memory after delete all in C 0
+Size in memory before delete all in R1 28
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 0
+Size in memory after delete all in R2 0
+Size in memory before delete all in intersect3 4
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R3 20
+Size in memory after delete all in R3 0
+Size in memory before delete all in union2 28
+Size in memory after delete all in union2 0
+Size in memory before delete all in R4 8
+Size in memory after delete all in R4 0
+Size in memory before delete all in union2 28
+Size in memory after delete all in union2 0
+Size in memory before delete all in intersect24 8
+Size in memory after delete all in intersect24 0
+Size in memory before delete all in R5 20
+Size in memory after delete all in R5 0
+||||||||||||| End log for script file input.script2 |||||||||||||
+||||||||||||| Start log for script file script-easy.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in R1 340
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 80
+Size in memory after delete all in R2 0
+||||||||||||| End log for script file script-easy.txt |||||||||||||
+||||||||||||| Start log for script file script-medium.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in R3 220
+Size in memory after delete all in R3 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R4 312
+Size in memory after delete all in R4 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in union34 312
+Size in memory after delete all in union34 0
+Size in memory before delete all in R5 428
+Size in memory after delete all in R5 0
+||||||||||||| End log for script file script-medium.txt |||||||||||||
+||||||||||||| Start log for script file script-hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union24 372
+Size in memory after delete all in union24 0
+Size in memory before delete all in union246 484
+Size in memory after delete all in union246 0
+Size in memory before delete all in union2468 608
+Size in memory after delete all in union2468 0
+Size in memory before delete all in R6 624
+Size in memory after delete all in R6 0
+Size in memory before delete all in intersect2 80
+Size in memory after delete all in intersect2 0
+Size in memory before delete all in intersect24 80
+Size in memory after delete all in intersect24 0
+Size in memory before delete all in intersect246 28
+Size in memory after delete all in intersect246 0
+Size in memory before delete all in intersect2468 12
+Size in memory after delete all in intersect2468 0
+Size in memory before delete all in R7 12
+Size in memory after delete all in R7 0
+Size in memory before delete all in R8 624
+Size in memory after delete all in R8 0
+||||||||||||| End log for script file script-hard.txt |||||||||||||
+||||||||||||| Start log for script file script-very_hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Stack underflow, not enough arguments for union for operation involving R6
+Stack underflow, not enough arguments for intersection for operation involving R7
+either ( or intersect3 do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union24 372
+Size in memory after delete all in union24 0
+Size in memory before delete all in union246 484
+Size in memory after delete all in union246 0
+Size in memory before delete all in union2468 608
+Size in memory after delete all in union2468 0
+Size in memory before delete all in intersect3 80
+Size in memory after delete all in intersect3 0
+||||||||||||| End log for script file script-very_hard.txt |||||||||||||
+||||||||||||| Start log for script file input.script1 |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory before delete all in A 20
+Size in memory after delete all in A 0
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in R1 28
+Size in memory after delete all in R1 0
+Size in memory before delete all in C 8
+Size in memory after delete all in C 0
+Size in memory before delete all in intersect3 4
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R2 20
+Size in memory after delete all in R2 0
+Size in memory before delete all in intersect2 0
+Size in memory after delete all in intersect2 0
+Size in memory before delete all in intersect24 0
+Size in memory after delete all in intersect24 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+||||||||||||| End log for script file input.script1 |||||||||||||
+||||||||||||| Start log for script file input.script1 |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory before delete all in A 20
+Size in memory after delete all in A 0
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in R1 28
+Size in memory after delete all in R1 0
+Size in memory before delete all in C 8
+Size in memory after delete all in C 0
+Size in memory before delete all in intersect3 4
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R2 20
+Size in memory after delete all in R2 0
+Size in memory before delete all in intersect2 0
+Size in memory after delete all in intersect2 0
+Size in memory before delete all in intersect24 0
+Size in memory after delete all in intersect24 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+||||||||||||| End log for script file input.script1 |||||||||||||
+||||||||||||| Start log for script file input.script1 |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory before delete all in A 20
+Size in memory after delete all in A 0
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in R1 28
+Size in memory after delete all in R1 0
+Size in memory before delete all in C 8
+Size in memory after delete all in C 0
+Size in memory before delete all in intersect3 4
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R2 20
+Size in memory after delete all in R2 0
+Size in memory before delete all in intersect3 4
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in intersect35 0
+Size in memory after delete all in intersect35 0
+Size in memory before delete all in R3 16
+Size in memory after delete all in R3 0
+||||||||||||| End log for script file input.script1 |||||||||||||
+||||||||||||| Start log for script file input.script1 |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory before delete all in A 20
+Size in memory after delete all in A 0
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in R1 28
+Size in memory after delete all in R1 0
+Size in memory before delete all in C 8
+Size in memory after delete all in C 0
+Size in memory before delete all in intersect3 4
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R2 20
+Size in memory after delete all in R2 0
+Size in memory before delete all in intersect2 4
+Size in memory after delete all in intersect2 0
+Size in memory before delete all in intersect24 0
+Size in memory after delete all in intersect24 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+||||||||||||| End log for script file input.script1 |||||||||||||
+||||||||||||| Start log for script file input.script1 |||||||||||||
+Size in memory after initialization 28
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory before delete all in A 24
+Size in memory after delete all in A 0
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in R1 28
+Size in memory after delete all in R1 0
+Size in memory before delete all in C 8
+Size in memory after delete all in C 0
+Size in memory before delete all in intersect3 4
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R2 20
+Size in memory after delete all in R2 0
+Size in memory before delete all in intersect2 4
+Size in memory after delete all in intersect2 0
+Size in memory before delete all in intersect24 4
+Size in memory after delete all in intersect24 0
+Size in memory before delete all in R3 12
+Size in memory after delete all in R3 0
+||||||||||||| End log for script file input.script1 |||||||||||||
+||||||||||||| Start log for script file input.script1 |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory after initialization 4
+Size in memory before delete all in A 20
+Size in memory after delete all in A 0
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in R1 28
+Size in memory after delete all in R1 0
+Size in memory before delete all in C 8
+Size in memory after delete all in C 0
+Size in memory before delete all in intersect3 4
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R2 20
+Size in memory after delete all in R2 0
+Size in memory before delete all in intersect2 4
+Size in memory after delete all in intersect2 0
+Size in memory before delete all in intersect24 0
+Size in memory after delete all in intersect24 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in EMPTY 4
+||||||||||||| Start log for script file input.script1 |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory after initialization 4
+Size in memory before delete all in A 20
+Size in memory after delete all in A 0
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in R1 28
+Size in memory after delete all in R1 0
+Size in memory before delete all in C 8
+Size in memory after delete all in C 0
+Size in memory before delete all in intersect3 4
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R2 20
+Size in memory after delete all in R2 0
+Size in memory before delete all in intersect2 4
+Size in memory after delete all in intersect2 0
+Size in memory before delete all in intersect24 0
+Size in memory after delete all in intersect24 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+||||||||||||| Start log for script file input.script1 |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory after initialization 4
+Size in memory before delete all in A 20
+Size in memory after delete all in A 0
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in R1 28
+Size in memory after delete all in R1 0
+Size in memory before delete all in C 8
+Size in memory after delete all in C 0
+Size in memory before delete all in intersect3 4
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R2 20
+Size in memory after delete all in R2 0
+Size in memory before delete all in intersect2 4
+Size in memory after delete all in intersect2 0
+Size in memory before delete all in intersect24 0
+Size in memory after delete all in intersect24 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+||||||||||||| Start log for script file input.script1 |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory after initialization 4
+Size in memory before delete all in A 20
+Size in memory after delete all in A 0
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in R1 28
+Size in memory after delete all in R1 0
+Size in memory before delete all in C 8
+Size in memory after delete all in C 0
+Size in memory before delete all in intersect3 4
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R2 20
+Size in memory after delete all in R2 0
+Size in memory before delete all in intersect2 4
+Size in memory after delete all in intersect2 0
+Size in memory before delete all in intersect24 0
+Size in memory after delete all in intersect24 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in E 4
+||||||||||||| Start log for script file input.script1 |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory after initialization 8
+Size in memory before delete all in A 20
+Size in memory after delete all in A 0
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in R1 28
+Size in memory after delete all in R1 0
+Size in memory before delete all in C 8
+Size in memory after delete all in C 0
+Size in memory before delete all in intersect3 4
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R2 20
+Size in memory after delete all in R2 0
+Size in memory before delete all in intersect2 4
+Size in memory after delete all in intersect2 0
+Size in memory before delete all in intersect24 0
+Size in memory after delete all in intersect24 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in E 4
+Size in memory after delete all in E 0
+Size in memory before delete all in R4 20
+Size in memory after delete all in R4 0
+||||||||||||| End log for script file input.script1 |||||||||||||
+||||||||||||| Start log for script file input.script1 |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory after initialization 4
+Size in memory before delete all in A 20
+Size in memory after delete all in A 0
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in R1 28
+Size in memory after delete all in R1 0
+Size in memory before delete all in C 8
+Size in memory after delete all in C 0
+Size in memory before delete all in intersect3 4
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R2 20
+Size in memory after delete all in R2 0
+Size in memory before delete all in intersect2 4
+Size in memory after delete all in intersect2 0
+Size in memory before delete all in intersect24 0
+Size in memory after delete all in intersect24 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in E 4
+||||||||||||| Start log for script file input.script1 |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory after initialization 4
+Size in memory before delete all in A 20
+Size in memory after delete all in A 0
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in R1 28
+Size in memory after delete all in R1 0
+Size in memory before delete all in C 8
+Size in memory after delete all in C 0
+Size in memory before delete all in intersect3 4
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R2 20
+Size in memory after delete all in R2 0
+Size in memory before delete all in intersect2 4
+Size in memory after delete all in intersect2 0
+Size in memory before delete all in intersect24 0
+Size in memory after delete all in intersect24 0
+Size in memory before delete all in R3 12
+Size in memory after delete all in R3 0
+Size in memory before delete all in E 4
+||||||||||||| Start log for script file input.script1 |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory after initialization 4
+Size in memory before delete all in A 20
+Size in memory after delete all in A 0
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in R1 28
+Size in memory after delete all in R1 0
+Size in memory before delete all in C 8
+Size in memory after delete all in C 0
+Size in memory before delete all in intersect3 4
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R2 20
+Size in memory after delete all in R2 0
+Size in memory before delete all in intersect2 4
+Size in memory after delete all in intersect2 0
+Size in memory before delete all in intersect24 0
+Size in memory after delete all in intersect24 0
+Size in memory before delete all in R3 12
+Size in memory after delete all in R3 0
+Size in memory before delete all in E 4
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+either A or E do not exist therefore the union cannot be executed
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in E 4
+Size in memory after delete all in E 0
+||||||||||||| End log for script file bugs.txt |||||||||||||
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in E 4
+Size in memory after delete all in E 0
+Size in memory before delete all in R4 16
+Size in memory after delete all in R4 0
+||||||||||||| End log for script file bugs.txt |||||||||||||
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in E 4
+Size in memory after delete all in E 0
+Size in memory before delete all in R4 16
+Size in memory after delete all in R4 0
+||||||||||||| End log for script file bugs.txt |||||||||||||
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in E 4
+Size in memory after delete all in E 0
+Size in memory before delete all in R4 16
+Size in memory after delete all in R4 0
+||||||||||||| End log for script file bugs.txt |||||||||||||
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in E 4
+Size in memory after delete all in E 0
+Size in memory before delete all in R4 16
+Size in memory after delete all in R4 0
+||||||||||||| End log for script file bugs.txt |||||||||||||
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in E 4
+Size in memory after delete all in E 0
+Size in memory before delete all in R4 16
+Size in memory after delete all in R4 0
+||||||||||||| End log for script file bugs.txt |||||||||||||
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in E 4
+Size in memory after delete all in E 0
+Size in memory before delete all in R4 16
+Size in memory after delete all in R4 0
+||||||||||||| End log for script file bugs.txt |||||||||||||
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in E 4
+Size in memory after delete all in E 0
+Size in memory before delete all in R4 16
+Size in memory after delete all in R4 0
+||||||||||||| End log for script file bugs.txt |||||||||||||
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in E 0
+Size in memory after delete all in E 0
+Size in memory before delete all in R4 12
+Size in memory after delete all in R4 0
+||||||||||||| End log for script file bugs.txt |||||||||||||
+||||||||||||| Start log for script file input.script1 |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory before delete all in A 20
+Size in memory after delete all in A 0
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in R1 28
+Size in memory after delete all in R1 0
+Size in memory before delete all in C 8
+Size in memory after delete all in C 0
+Size in memory before delete all in intersect3 4
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R2 20
+Size in memory after delete all in R2 0
+Size in memory before delete all in intersect2 4
+Size in memory after delete all in intersect2 0
+Size in memory before delete all in intersect24 0
+Size in memory after delete all in intersect24 0
+Size in memory before delete all in R3 12
+Size in memory after delete all in R3 0
+||||||||||||| End log for script file input.script1 |||||||||||||
+||||||||||||| Start log for script file script-easy.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in R1 340
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 80
+Size in memory after delete all in R2 0
+||||||||||||| End log for script file script-easy.txt |||||||||||||
+||||||||||||| Start log for script file script-medium.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in R3 220
+Size in memory after delete all in R3 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R4 312
+Size in memory after delete all in R4 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in union34 312
+Size in memory after delete all in union34 0
+Size in memory before delete all in R5 428
+Size in memory after delete all in R5 0
+||||||||||||| End log for script file script-medium.txt |||||||||||||
+||||||||||||| Start log for script file script-hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union24 372
+Size in memory after delete all in union24 0
+Size in memory before delete all in union246 484
+Size in memory after delete all in union246 0
+Size in memory before delete all in union2468 608
+Size in memory after delete all in union2468 0
+Size in memory before delete all in R6 624
+Size in memory after delete all in R6 0
+Size in memory before delete all in intersect2 80
+Size in memory after delete all in intersect2 0
+Size in memory before delete all in intersect24 80
+Size in memory after delete all in intersect24 0
+Size in memory before delete all in intersect246 28
+Size in memory after delete all in intersect246 0
+Size in memory before delete all in intersect2468 12
+Size in memory after delete all in intersect2468 0
+Size in memory before delete all in R7 12
+Size in memory after delete all in R7 0
+Size in memory before delete all in R8 624
+Size in memory after delete all in R8 0
+||||||||||||| End log for script file script-hard.txt |||||||||||||
+||||||||||||| Start log for script file script-very_hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Stack underflow, not enough arguments for union for operation involving R6
+Stack underflow, not enough arguments for intersection for operation involving R7
+either ( or intersect3 do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union24 372
+Size in memory after delete all in union24 0
+Size in memory before delete all in union246 484
+Size in memory after delete all in union246 0
+Size in memory before delete all in union2468 608
+Size in memory after delete all in union2468 0
+Size in memory before delete all in intersect3 80
+Size in memory after delete all in intersect3 0
+||||||||||||| End log for script file script-very_hard.txt |||||||||||||
+||||||||||||| Start log for script file script-very_hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Stack underflow, not enough arguments for union for operation involving R6
+Stack underflow, not enough arguments for intersection for operation involving R7
+either ( or intersect3 do not exist therefore the union cannot be executed
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union24 372
+Size in memory after delete all in union24 0
+Size in memory before delete all in union246 484
+Size in memory after delete all in union246 0
+Size in memory before delete all in union2468 608
+Size in memory after delete all in union2468 0
+Size in memory before delete all in intersect3 80
+Size in memory after delete all in intersect3 0
+||||||||||||| End log for script file script-very_hard.txt |||||||||||||
+||||||||||||| Start log for script file script-hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union24 372
+Size in memory after delete all in union24 0
+Size in memory before delete all in union246 484
+Size in memory after delete all in union246 0
+Size in memory before delete all in union2468 608
+Size in memory after delete all in union2468 0
+Size in memory before delete all in R6 624
+Size in memory after delete all in R6 0
+Size in memory before delete all in intersect2 80
+Size in memory after delete all in intersect2 0
+Size in memory before delete all in intersect24 80
+Size in memory after delete all in intersect24 0
+Size in memory before delete all in intersect246 28
+Size in memory after delete all in intersect246 0
+Size in memory before delete all in intersect2468 12
+Size in memory after delete all in intersect2468 0
+Size in memory before delete all in R7 12
+Size in memory after delete all in R7 0
+Size in memory before delete all in R8 624
+Size in memory after delete all in R8 0
+||||||||||||| End log for script file script-hard.txt |||||||||||||
+||||||||||||| Start log for script file script-medium.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in R3 220
+Size in memory after delete all in R3 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R4 312
+Size in memory after delete all in R4 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in union34 312
+Size in memory after delete all in union34 0
+Size in memory before delete all in R5 428
+Size in memory after delete all in R5 0
+||||||||||||| End log for script file script-medium.txt |||||||||||||
+||||||||||||| Start log for script file script-easy.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in R1 340
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 80
+Size in memory after delete all in R2 0
+||||||||||||| End log for script file script-easy.txt |||||||||||||
+||||||||||||| Start log for script file script-medium.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in R3 220
+Size in memory after delete all in R3 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R4 312
+Size in memory after delete all in R4 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in union34 312
+Size in memory after delete all in union34 0
+Size in memory before delete all in R5 428
+Size in memory after delete all in R5 0
+||||||||||||| End log for script file script-medium.txt |||||||||||||
+||||||||||||| Start log for script file script-hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union24 372
+Size in memory after delete all in union24 0
+Size in memory before delete all in union246 484
+Size in memory after delete all in union246 0
+Size in memory before delete all in union2468 608
+Size in memory after delete all in union2468 0
+Size in memory before delete all in R6 624
+Size in memory after delete all in R6 0
+Size in memory before delete all in intersect2 80
+Size in memory after delete all in intersect2 0
+Size in memory before delete all in intersect24 80
+Size in memory after delete all in intersect24 0
+Size in memory before delete all in intersect246 28
+Size in memory after delete all in intersect246 0
+Size in memory before delete all in intersect2468 12
+Size in memory after delete all in intersect2468 0
+Size in memory before delete all in R7 12
+Size in memory after delete all in R7 0
+Size in memory before delete all in R8 624
+Size in memory after delete all in R8 0
+||||||||||||| End log for script file script-hard.txt |||||||||||||
+||||||||||||| Start log for script file script-hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union4 372
+Size in memory after delete all in union4 0
+Size in memory before delete all in union6 484
+Size in memory after delete all in union6 0
+Size in memory before delete all in union8 608
+Size in memory after delete all in union8 0
+Size in memory before delete all in R6 624
+Size in memory after delete all in R6 0
+Size in memory before delete all in intersect2 80
+Size in memory after delete all in intersect2 0
+Size in memory before delete all in intersect4 80
+Size in memory after delete all in intersect4 0
+Size in memory before delete all in intersect6 28
+Size in memory after delete all in intersect6 0
+Size in memory before delete all in intersect8 12
+Size in memory after delete all in intersect8 0
+Size in memory before delete all in R7 12
+Size in memory after delete all in R7 0
+Size in memory before delete all in R8 624
+Size in memory after delete all in R8 0
+||||||||||||| End log for script file script-hard.txt |||||||||||||
+||||||||||||| Start log for script file script-hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union4 372
+Size in memory after delete all in union4 0
+Size in memory before delete all in union6 484
+Size in memory after delete all in union6 0
+Size in memory before delete all in union8 608
+Size in memory after delete all in union8 0
+Size in memory before delete all in R6 624
+Size in memory after delete all in R6 0
+Size in memory before delete all in intersect2 80
+Size in memory after delete all in intersect2 0
+Size in memory before delete all in intersect4 80
+Size in memory after delete all in intersect4 0
+Size in memory before delete all in intersect6 28
+Size in memory after delete all in intersect6 0
+Size in memory before delete all in intersect8 12
+Size in memory after delete all in intersect8 0
+Size in memory before delete all in R7 12
+Size in memory after delete all in R7 0
+Size in memory before delete all in R8 624
+Size in memory after delete all in R8 0
+||||||||||||| End log for script file script-hard.txt |||||||||||||
+||||||||||||| Start log for script file script-medium.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in R3 220
+Size in memory after delete all in R3 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R4 312
+Size in memory after delete all in R4 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in union4 312
+Size in memory after delete all in union4 0
+Size in memory before delete all in R5 428
+Size in memory after delete all in R5 0
+||||||||||||| End log for script file script-medium.txt |||||||||||||
+||||||||||||| Start log for script file script-medium.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in R3 220
+Size in memory after delete all in R3 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R4 312
+Size in memory after delete all in R4 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in union4 312
+Size in memory after delete all in union4 0
+Size in memory before delete all in R5 428
+Size in memory after delete all in R5 0
+||||||||||||| End log for script file script-medium.txt |||||||||||||
+||||||||||||| Start log for script file script-easy.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in R1 340
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 80
+Size in memory after delete all in R2 0
+||||||||||||| End log for script file script-easy.txt |||||||||||||
+||||||||||||| Start log for script file script-medium.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in R3 220
+Size in memory after delete all in R3 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R4 312
+Size in memory after delete all in R4 0
+Size in memory before delete all in intersect3 216
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in union4 312
+Size in memory after delete all in union4 0
+Size in memory before delete all in R5 428
+Size in memory after delete all in R5 0
+||||||||||||| End log for script file script-medium.txt |||||||||||||
+||||||||||||| Start log for script file script-hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union4 372
+Size in memory after delete all in union4 0
+Size in memory before delete all in union6 484
+Size in memory after delete all in union6 0
+Size in memory before delete all in union8 608
+Size in memory after delete all in union8 0
+Size in memory before delete all in R6 624
+Size in memory after delete all in R6 0
+Size in memory before delete all in intersect2 80
+Size in memory after delete all in intersect2 0
+Size in memory before delete all in intersect4 80
+Size in memory after delete all in intersect4 0
+Size in memory before delete all in intersect6 28
+Size in memory after delete all in intersect6 0
+Size in memory before delete all in intersect8 12
+Size in memory after delete all in intersect8 0
+Size in memory before delete all in R7 12
+Size in memory after delete all in R7 0
+Size in memory before delete all in R8 624
+Size in memory after delete all in R8 0
+||||||||||||| End log for script file script-hard.txt |||||||||||||
+||||||||||||| Start log for script file script-hard.txt |||||||||||||
+Size in memory after initialization 232
+Size in memory after initialization 304
+Size in memory after initialization 340
+Size in memory after initialization 244
+Size in memory after initialization 336
+Size in memory after initialization 112
+Size in memory before delete all in L1 228
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 300
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 336
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 240
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 332
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 108
+Size in memory after delete all in L6 0
+Size in memory before delete all in union2 340
+Size in memory after delete all in union2 0
+Size in memory before delete all in union4 372
+Size in memory after delete all in union4 0
+Size in memory before delete all in union6 484
+Size in memory after delete all in union6 0
+Size in memory before delete all in union8 608
+Size in memory after delete all in union8 0
+Size in memory before delete all in R6 624
+Size in memory after delete all in R6 0
+Size in memory before delete all in intersect2 80
+Size in memory after delete all in intersect2 0
+Size in memory before delete all in intersect4 80
+Size in memory after delete all in intersect4 0
+Size in memory before delete all in intersect6 28
+Size in memory after delete all in intersect6 0
+Size in memory before delete all in intersect8 12
+Size in memory after delete all in intersect8 0
+Size in memory before delete all in R7 12
+Size in memory after delete all in R7 0
+Size in memory before delete all in R8 624
+Size in memory after delete all in R8 0
+||||||||||||| End log for script file script-hard.txt |||||||||||||
+||||||||||||| Start log for script file input.script1 |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory before delete all in A 20
+Size in memory after delete all in A 0
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in R1 28
+Size in memory after delete all in R1 0
+Size in memory before delete all in C 8
+Size in memory after delete all in C 0
+Size in memory before delete all in intersect3 4
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R2 20
+Size in memory after delete all in R2 0
+Size in memory before delete all in intersect2 4
+Size in memory after delete all in intersect2 0
+Size in memory before delete all in intersect4 0
+Size in memory after delete all in intersect4 0
+Size in memory before delete all in R3 12
+Size in memory after delete all in R3 0
+||||||||||||| End log for script file input.script1 |||||||||||||
+||||||||||||| Start log for script file input.script2 |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory before delete all in A 20
+Size in memory after delete all in A 0
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in C 8
+Size in memory after delete all in C 0
+Size in memory before delete all in R1 28
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 0
+Size in memory after delete all in R2 0
+Size in memory before delete all in intersect3 4
+Size in memory after delete all in intersect3 0
+Size in memory before delete all in R3 20
+Size in memory after delete all in R3 0
+Size in memory before delete all in union2 28
+Size in memory after delete all in union2 0
+Size in memory before delete all in R4 8
+Size in memory after delete all in R4 0
+Size in memory before delete all in union2 28
+Size in memory after delete all in union2 0
+Size in memory before delete all in intersect4 8
+Size in memory after delete all in intersect4 0
+Size in memory before delete all in R5 20
+Size in memory after delete all in R5 0
+||||||||||||| End log for script file input.script2 |||||||||||||
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in E 0
+Size in memory after delete all in E 0
+Size in memory before delete all in R4 12
+Size in memory after delete all in R4 0
+||||||||||||| End log for script file bugs.txt |||||||||||||
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in E 0
+Size in memory after delete all in E 0
+Size in memory before delete all in R4 12
+Size in memory after delete all in R4 0
+||||||||||||| End log for script file bugs.txt |||||||||||||
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in E 0
+Size in memory after delete all in E 0
+Size in memory before delete all in R4 12
+Size in memory after delete all in R4 0
+||||||||||||| End log for script file bugs.txt |||||||||||||
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in E 0
+Size in memory after delete all in E 0
+Size in memory before delete all in R4 12
+Size in memory after delete all in R4 0
+||||||||||||| End log for script file bugs.txt |||||||||||||
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in E 0
+Size in memory after delete all in E 0
+Size in memory before delete all in R4 12
+Size in memory after delete all in R4 0
+||||||||||||| End log for script file bugs.txt |||||||||||||
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in E 0
+Size in memory after delete all in E 0
+Size in memory before delete all in R4 12
+Size in memory after delete all in R4 0
+||||||||||||| End log for script file bugs.txt |||||||||||||
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in E 0
+Size in memory after delete all in E 0
+Size in memory before delete all in R4 12
+Size in memory after delete all in R4 0
+||||||||||||| End log for script file bugs.txt |||||||||||||
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in E 0
+Size in memory after delete all in E 0
+Size in memory before delete all in R4 12
+Size in memory after delete all in R4 0
+||||||||||||| End log for script file bugs.txt |||||||||||||
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in E 0
+Size in memory after delete all in E 0
+Size in memory before delete all in R4 12
+Size in memory after delete all in R4 0
+||||||||||||| End log for script file bugs.txt |||||||||||||
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in E 0
+Size in memory after delete all in E 0
+Size in memory before delete all in R4 12
+Size in memory after delete all in R4 0
+||||||||||||| End log for script file bugs.txt |||||||||||||
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in E 0
+Size in memory after delete all in E 0
+Size in memory before delete all in R4 12
+Size in memory after delete all in R4 0
+||||||||||||| End log for script file bugs.txt |||||||||||||
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in E 0
+Size in memory after delete all in E 0
+Size in memory before delete all in R4 12
+Size in memory after delete all in R4 0
+||||||||||||| End log for script file bugs.txt |||||||||||||
+||||||||||||| Start log for script file bugs.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 4
+Size in memory before delete all in B 12
+Size in memory after delete all in B 0
+Size in memory before delete all in E 0
+Size in memory after delete all in E 0
+Size in memory before delete all in R4 12
+Size in memory after delete all in R4 0
+||||||||||||| End log for script file bugs.txt |||||||||||||

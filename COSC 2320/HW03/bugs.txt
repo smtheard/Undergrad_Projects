@@ -1,0 +1,4 @@
+read(B,'B.txt')
+read(E,'empty.txt')
+R4=E+B
+write(R4,'R4.txt',reverse)

@@ -1,0 +1,3 @@
+rainbow.txt
+spectrum.txt
+puppy.txt

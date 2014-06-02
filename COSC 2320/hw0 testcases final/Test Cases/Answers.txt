@@ -1,0 +1,39 @@
+TC1
+
+Result: dog=5
+
+TC2
+
+Result: dog=2
+
+TC3
+
+Result: dog=4
+
+TC4
+
+Result: one=3
+
+TC5
+
+Result: the=3
+
+TC6
+
+Result: the=2
+
+TC7
+
+Result: yes=5
+
+TC8
+
+Result: down=2
+
+TC9
+
+Result: are=2
+
+TC10
+
+Result: mighty=6

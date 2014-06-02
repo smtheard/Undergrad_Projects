@@ -1,0 +1,2724 @@
+||||||||||||| Start log for script file input.script |||||||||||||
+Operation not recognized, check your script file for errors! Exiting program...
+Size in memory before delete all 0
+Size in memory after delete all 0
+||||||||||||| End log for script file input.script |||||||||||||
+||||||||||||| Start log for script file script1.script |||||||||||||
+failed to initialize list due to invalid input file name
+Size in memory before delete all 0
+Size in memory after delete all 0
+||||||||||||| End log for script file script1.script |||||||||||||
+||||||||||||| Start log for script file input.script |||||||||||||
+Operation not recognized, check your script file for errors! Exiting program...
+Size in memory before delete all 0
+Size in memory after delete all 0
+||||||||||||| End log for script file input.script |||||||||||||
+||||||||||||| Start log for script file input.script |||||||||||||
+Operation not recognized, check your script file for errors! Exiting program...
+Size in memory before delete all 0
+Size in memory after delete all 0
+||||||||||||| End log for script file input.script |||||||||||||
+||||||||||||| Start log for script file script1.script |||||||||||||
+failed to initialize list due to invalid input file name
+Size in memory before delete all 0
+Size in memory after delete all 0
+||||||||||||| End log for script file script1.script |||||||||||||
+||||||||||||| Start log for script file input.script |||||||||||||
+Operation not recognized, check your script file for errors! Exiting program...
+Size in memory before delete all 0
+Size in memory after delete all 0
+||||||||||||| End log for script file input.script |||||||||||||
+||||||||||||| Start log for script file script1.script |||||||||||||
+failed to initialize list due to invalid input file name
+Size in memory before delete all 0
+Size in memory after delete all 0
+||||||||||||| End log for script file script1.script |||||||||||||
+||||||||||||| Start log for script file input.script |||||||||||||
+Operation not recognized, check your script file for errors! Exiting program...
+Size in memory before delete all 0
+Size in memory after delete all 0
+||||||||||||| End log for script file input.script |||||||||||||
+||||||||||||| Start log for script file input.script |||||||||||||
+Operation not recognized, check your script file for errors! Exiting program...
+Size in memory before delete all 0
+Size in memory after delete all 0
+||||||||||||| End log for script file input.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+failed to initialize list due to invalid input file name
+Size in memory before delete all 0
+Size in memory after delete all 0
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+failed to initialize list due to invalid input file name
+Size in memory before delete all 0
+Size in memory after delete all 0
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Either the list was not initiated before performing operations, OR the most recent list ID did not match the initial list ID... Program forced to exit
+Size in memory before delete all 12
+Size in memory after delete all 4
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file script1.script |||||||||||||
+failed to initialize list due to invalid input file name
+Size in memory before delete all 0
+Size in memory after delete all 0
+||||||||||||| End log for script file script1.script |||||||||||||
+||||||||||||| Start log for script file input.script |||||||||||||
+Operation not recognized, check your script file for errors! Exiting program...
+Size in memory before delete all 0
+Size in memory after delete all 0
+||||||||||||| End log for script file input.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Either the list was not initiated before performing operations, OR the most recent list ID did not match the initial list ID... Program forced to exit
+Size in memory before delete all 12
+Size in memory after delete all 4
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Either the list was not initiated before performing operations, OR the most recent list ID did not match the initial list ID... Program forced to exit
+Size in memory before delete all 12
+Size in memory after delete all 4
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Either the list was not initiated before performing operations, OR the most recent list ID did not match the initial list ID... Program forced to exit
+Size in memory before delete all 12
+Size in memory after delete all 4
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Either the list was not initiated before performing operations, OR the most recent list ID did not match the initial list ID... Program forced to exit
+Size in memory before delete all 12
+Size in memory after delete all 4
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 24
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 24
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 24
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 24
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 24
+||||||||||||| Start log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.txt |||||||||||||
+Operation not recognized, check your script file for errors! Exiting program...
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 8
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after deletion 12
+Size in memory after initialization 12
+Size in memory after deletion 8
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after deletion 12
+Size in memory after initialization 12
+Size in memory after deletion 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after deletion 12
+Size in memory after initialization 12
+Size in memory after deletion 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after deletion 12
+Size in memory after initialization 12
+Size in memory after deletion 8
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after deletion 12
+Size in memory after initialization 12
+Size in memory after deletion 8
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after deletion 12
+Size in memory after initialization 12
+Size in memory after deletion 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after deletion 12
+Size in memory after initialization 12
+Size in memory after deletion 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+failed to initialize list due to invalid input file name
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+failed to initialize list due to invalid input file name
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+failed to initialize list due to invalid input file name
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after insertion 12
+Size in memory after insertion 16
+Size in memory after insertion 20
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after insertion 12
+Size in memory after insertion 16
+Size in memory after insertion 20
+||||||||||||| Start log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after insertion 12
+Size in memory after insertion 16
+Size in memory after insertion 20
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after insertion 12
+Size in memory after insertion 16
+Size in memory after insertion 20
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after insertion 12
+Size in memory after insertion 16
+Size in memory after insertion 20
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after insertion 12
+Size in memory after insertion 16
+Size in memory after insertion 20
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after insertion 12
+Size in memory after insertion 16
+Size in memory after insertion 20
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after insertion 12
+Size in memory after insertion 16
+Size in memory after insertion 20
+Size in memory after insertion 24
+Size in memory after initialization 24
+Size in memory after insertion 12
+Size in memory after insertion 16
+Size in memory after initialization 16
+Size in memory after insertion 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after insertion 12
+Size in memory after insertion 16
+Size in memory after insertion 20
+Size in memory after insertion 24
+Size in memory after initialization 24
+Size in memory after insertion 12
+Size in memory after insertion 16
+Size in memory after initialization 16
+Size in memory after insertion 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after insertion 12
+Size in memory after insertion 16
+Size in memory after insertion 20
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after insertion 12
+Size in memory after insertion 16
+Size in memory after insertion 20
+Size in memory after insertion 24
+Size in memory after initialization 24
+Size in memory after insertion 12
+Size in memory after insertion 16
+Size in memory after initialization 16
+Size in memory after insertion 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 28
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.txt |||||||||||||
+Operation not recognized, check your script file for errors! Exiting program...
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 20
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 20
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 20
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 20
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 8
+Size in memory after initialization 4
+Size in memory after initialization 4
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 20
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 8
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 8
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 8
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 8
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 8
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 20
+Size in memory after initialization 12
+Size in memory after initialization 8
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 8
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 8
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 8
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 8
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 8
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 12
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 8
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 8
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 8
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 8
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 8
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 8
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 8
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 8
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 8
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 8
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 0
+Size in memory after initialization 0
+Size in memory after initialization 0
+The list was not initiated before performing operations.
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 0
+Size in memory after initialization 0
+Size in memory after initialization 0
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 0
+Size in memory before delete all in l2 0
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 4
+Size in memory after initialization 4
+Size in memory after initialization 4
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 4
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 4
+Size in memory after delete all in l2 4
+Size in memory before delete all in l3 4
+Size in memory after delete all in l3 4
+Size in memory before delete all in lu1 4
+Size in memory after delete all in lu1 4
+Size in memory before delete all in lu2 4
+Size in memory after delete all in lu2 4
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 4
+Size in memory after initialization 4
+Size in memory after initialization 4
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 4
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 4
+Size in memory after delete all in l2 4
+Size in memory before delete all in l3 4
+Size in memory after delete all in l3 4
+Size in memory before delete all in lu1 4
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 4
+Size in memory after initialization 4
+Size in memory after initialization 4
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 4
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 4
+Size in memory after delete all in l2 4
+Size in memory before delete all in l3 4
+Size in memory after delete all in l3 4
+Size in memory before delete all in lu1 4
+Size in memory after delete all in lu1 4
+Size in memory before delete all in lu2 4
+Size in memory after delete all in lu2 4
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 4
+Size in memory after initialization 4
+Size in memory after initialization 4
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 4
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 4
+Size in memory after delete all in l2 4
+Size in memory before delete all in l3 4
+Size in memory after delete all in l3 4
+Size in memory before delete all in lu1 4
+Size in memory after delete all in lu1 4
+Size in memory before delete all in lu2 4
+Size in memory after delete all in lu2 4
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 4
+Size in memory after initialization 4
+Size in memory after initialization 4
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 4
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 4
+Size in memory after delete all in l2 4
+Size in memory before delete all in l3 4
+Size in memory after delete all in l3 4
+Size in memory before delete all in lu1 4
+Size in memory after delete all in lu1 4
+Size in memory before delete all in lu2 4
+Size in memory after delete all in lu2 4
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 4
+Size in memory after initialization 4
+Size in memory after initialization 4
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 4
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 4
+Size in memory after delete all in l2 4
+Size in memory before delete all in l3 4
+Size in memory after delete all in l3 4
+Size in memory before delete all in lu1 4
+Size in memory after delete all in lu1 4
+Size in memory before delete all in lu2 4
+Size in memory after delete all in lu2 4
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 4
+Size in memory after initialization 4
+Size in memory after initialization 4
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 4
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 4
+Size in memory after delete all in l2 4
+Size in memory before delete all in l3 4
+Size in memory after delete all in l3 4
+Size in memory before delete all in lu1 4
+Size in memory after delete all in lu1 4
+Size in memory before delete all in lu2 4
+Size in memory after delete all in lu2 4
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 4
+Size in memory after initialization 4
+Size in memory after initialization 4
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 4
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 4
+Size in memory after delete all in l2 4
+Size in memory before delete all in l3 4
+Size in memory after delete all in l3 4
+Size in memory before delete all in lu1 4
+Size in memory after delete all in lu1 4
+Size in memory before delete all in lu2 4
+Size in memory after delete all in lu2 4
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+Size in memory before delete all in l1 16
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+Size in memory before delete all in L1 48
+Failure to open script file tc3.txt exiting program...
+Failure to open script file tc4.txt exiting program...
+||||||||||||| Start log for script file tc3.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 64
+||||||||||||| End log for script file tc3.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+The list was not initiated before performing operations.
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc3.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 64
+||||||||||||| End log for script file tc3.script |||||||||||||
+||||||||||||| Start log for script file tc2.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+The list was not initiated before performing operations.
+||||||||||||| End log for script file tc2.script |||||||||||||
+||||||||||||| Start log for script file tc2.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc2.script |||||||||||||
+||||||||||||| Start log for script file tc2.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc2.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+Size in memory before delete all in L1 48
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory before delete all in l1 20
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory before delete all in l1 20
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory before delete all in l1 20
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 12
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+Size in memory before delete all in L1 48
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+Size in memory before delete all in L1 48
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory before delete all in l1 20
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 12
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 20
+Size in memory after initialization 12
+Size in memory after initialization 8
+Size in memory before delete all in l1 20
+Size in memory after delete all in l1 4
+Size in memory before delete all in l2 12
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+Size in memory before delete all in L1 48
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 44
+Size in memory after initialization 44
+Size in memory before delete all in L1 40
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 48
+Size in memory after delete all in L2 0
+Size in memory before delete all in U1 44
+Size in memory after delete all in U1 0
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 48
+Size in memory after delete all in L2 0
+Size in memory before delete all in U1 44
+Size in memory after delete all in U1 0
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 48
+Size in memory after delete all in L2 0
+Size in memory before delete all in U1 44
+Size in memory after delete all in U1 0
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 48
+Size in memory after delete all in L2 0
+Size in memory before delete all in U1 44
+Size in memory after delete all in U1 0
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file input2.script |||||||||||||
+Size in memory after initialization 24
+Size in memory after initialization 16
+Size in memory after initialization 12
+Size in memory before delete all in l1 20
+Size in memory after delete all in l1 0
+Size in memory before delete all in l2 12
+Size in memory after delete all in l2 0
+Size in memory before delete all in l3 8
+Size in memory after delete all in l3 0
+Size in memory before delete all in lu1 28
+Size in memory after delete all in lu1 0
+Size in memory before delete all in lu2 28
+Size in memory after delete all in lu2 0
+Size in memory before delete all in li1 0
+Size in memory after delete all in li1 0
+Size in memory before delete all in °  4
+Size in memory after delete all in °  0
+||||||||||||| End log for script file input2.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L4 4
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 0
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L4 4
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 0
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L4 4
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 0
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L4 4
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 0
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc2.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 48
+Size in memory after delete all in L2 0
+Size in memory before delete all in I1 44
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file tc2.script |||||||||||||
+||||||||||||| Start log for script file tc3.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 64
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L3 60
+Size in memory after delete all in L3 0
+Size in memory before delete all in U2 56
+Size in memory after delete all in U2 0
+||||||||||||| End log for script file tc3.script |||||||||||||
+||||||||||||| Start log for script file tc3.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 64
+||||||||||||| End log for script file tc3.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L4 4
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 0
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L4 4
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 0
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L4 4
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 0
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+Size in memory before delete all in L1 48
+Size in memory before delete all in L4 4
+Size in memory before delete all in I2 0
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+Size in memory after delete all in L1 0
+Size in memory after delete all in L4 0
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L4 4
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 0
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L4 4
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 0
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L4 4
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 0
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 4
+Size in memory before delete all in L4 4
+Size in memory after delete all in L4 4
+Size in memory before delete all in I2 0
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L4 4
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 0
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L4 4
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 0
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+Size in memory before delete all in L1 48
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L4 4
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 0
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L4 4
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 0
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L4 4
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 0
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L4 4
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 0
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 4
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+You are trying to overwrite an already existing list, this is illegal.. Skipping this operation. List: L1
+either L1 or L4 do not exist therefore the union cannot be executed
+The list was not initiated before performing operations.
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 20
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 28
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 52
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 28
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 28
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 28
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 28
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 28
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 28
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 28
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 28
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 28
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 28
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 28
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 28
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 28
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 28
+Size in memory before delete all in  48
+Size in memory after delete all in  0
+Size in memory before delete all in  24
+Size in memory after delete all in  0
+Size in memory before delete all in  8
+Size in memory after delete all in  0
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 28
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L4 24
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 8
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc4.script |||||||||||||
+Size in memory after initialization 52
+Size in memory after initialization 28
+Size in memory before delete all in L1 48
+Size in memory after delete all in L1 0
+Size in memory before delete all in L4 24
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 8
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc4.script |||||||||||||
+||||||||||||| Start log for script file tc1.txt |||||||||||||
+out\out1.txt has failed to open for writeForward function
+Size in memory before delete all in L1 0
+Size in memory after delete all in L1 0
+||||||||||||| End log for script file tc1.txt |||||||||||||
+||||||||||||| Start log for script file tc2.txt |||||||||||||
+out\out2.txt has failed to open for writeForward function
+Size in memory before delete all in L1 0
+Size in memory after delete all in L1 0
+||||||||||||| End log for script file tc2.txt |||||||||||||
+||||||||||||| Start log for script file tc3.txt |||||||||||||
+out\out3.txt has failed to open for writeForward function
+Size in memory before delete all in L1 0
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 0
+Size in memory after delete all in L2 0
+Size in memory before delete all in R1 0
+Size in memory after delete all in R1 0
+||||||||||||| End log for script file tc3.txt |||||||||||||
+||||||||||||| Start log for script file tc4.txt |||||||||||||
+out\out4.txt has failed to open for writeForward function
+Size in memory before delete all in L1 0
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 0
+Size in memory after delete all in L2 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file tc4.txt |||||||||||||
+||||||||||||| Start log for script file tc5.txt |||||||||||||
+out\out5.txt has failed to open for writeForward function
+Size in memory before delete all in L3 0
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 0
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 0
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc5.txt |||||||||||||
+||||||||||||| Start log for script file tc6.txt |||||||||||||
+out\out6.txt has failed to open for writeForward function
+Size in memory before delete all in L3 0
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 0
+Size in memory after delete all in L4 0
+Size in memory before delete all in U2 0
+Size in memory after delete all in U2 0
+||||||||||||| End log for script file tc6.txt |||||||||||||
+||||||||||||| Start log for script file tc7.txt |||||||||||||
+out\out7.txt has failed to open for writeForward function
+Size in memory before delete all in L3 0
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 0
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 0
+Size in memory after delete all in I2 0
+Size in memory before delete all in U2 0
+Size in memory after delete all in U2 0
+Size in memory before delete all in R2 0
+Size in memory after delete all in R2 0
+||||||||||||| End log for script file tc7.txt |||||||||||||
+||||||||||||| Start log for script file tc8.txt |||||||||||||
+out\out8.txt has failed to open for writeForward function
+Size in memory before delete all in L5 0
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 0
+Size in memory after delete all in L6 0
+Size in memory before delete all in S 0
+Size in memory after delete all in S 0
+||||||||||||| End log for script file tc8.txt |||||||||||||
+||||||||||||| Start log for script file tc9.txt |||||||||||||
+out\out9.txt has failed to open for writeForward function
+Size in memory before delete all in L5 0
+Size in memory after delete all in L5 0
+Size in memory before delete all in L7 0
+Size in memory after delete all in L7 0
+Size in memory before delete all in S 0
+Size in memory after delete all in S 0
+||||||||||||| End log for script file tc9.txt |||||||||||||
+||||||||||||| Start log for script file tc10.txt |||||||||||||
+out\out10.txt has failed to open for writeForward function
+Size in memory before delete all in L4 0
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 0
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 0
+Size in memory after delete all in L6 0
+Size in memory before delete all in L7 0
+Size in memory after delete all in L7 0
+Size in memory before delete all in S1 0
+Size in memory after delete all in S1 0
+Size in memory before delete all in S2 0
+Size in memory after delete all in S2 0
+Size in memory before delete all in S3 0
+Size in memory after delete all in S3 0
+Size in memory before delete all in SF 0
+Size in memory after delete all in SF 0
+||||||||||||| End log for script file tc10.txt |||||||||||||
+||||||||||||| Start log for script file tc1.script |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 20
+Size in memory before delete all in L1 12
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 16
+Size in memory after delete all in L2 0
+Size in memory before delete all in U1 16
+Size in memory after delete all in U1 0
+||||||||||||| End log for script file tc1.script |||||||||||||
+||||||||||||| Start log for script file tc1.txt |||||||||||||
+Size in memory before delete all in L1 0
+Size in memory after delete all in L1 0
+||||||||||||| End log for script file tc1.txt |||||||||||||
+||||||||||||| Start log for script file tc2.txt |||||||||||||
+Size in memory before delete all in L1 0
+Size in memory after delete all in L1 0
+||||||||||||| End log for script file tc2.txt |||||||||||||
+||||||||||||| Start log for script file tc3.txt |||||||||||||
+Size in memory before delete all in L1 0
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 0
+Size in memory after delete all in L2 0
+Size in memory before delete all in R1 0
+Size in memory after delete all in R1 0
+||||||||||||| End log for script file tc3.txt |||||||||||||
+||||||||||||| Start log for script file tc4.txt |||||||||||||
+Size in memory before delete all in L1 0
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 0
+Size in memory after delete all in L2 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file tc4.txt |||||||||||||
+||||||||||||| Start log for script file tc5.txt |||||||||||||
+Size in memory before delete all in L3 0
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 0
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 0
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc5.txt |||||||||||||
+||||||||||||| Start log for script file tc6.txt |||||||||||||
+Size in memory before delete all in L3 0
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 0
+Size in memory after delete all in L4 0
+Size in memory before delete all in U2 0
+Size in memory after delete all in U2 0
+||||||||||||| End log for script file tc6.txt |||||||||||||
+||||||||||||| Start log for script file tc7.txt |||||||||||||
+Size in memory before delete all in L3 0
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 0
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 0
+Size in memory after delete all in I2 0
+Size in memory before delete all in U2 0
+Size in memory after delete all in U2 0
+Size in memory before delete all in R2 0
+Size in memory after delete all in R2 0
+||||||||||||| End log for script file tc7.txt |||||||||||||
+||||||||||||| Start log for script file tc8.txt |||||||||||||
+Size in memory before delete all in L5 0
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 0
+Size in memory after delete all in L6 0
+Size in memory before delete all in S 0
+Size in memory after delete all in S 0
+||||||||||||| End log for script file tc8.txt |||||||||||||
+||||||||||||| Start log for script file tc9.txt |||||||||||||
+Size in memory before delete all in L5 0
+Size in memory after delete all in L5 0
+Size in memory before delete all in L7 0
+Size in memory after delete all in L7 0
+Size in memory before delete all in S 0
+Size in memory after delete all in S 0
+||||||||||||| End log for script file tc9.txt |||||||||||||
+||||||||||||| Start log for script file tc10.txt |||||||||||||
+Size in memory before delete all in L4 0
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 0
+Size in memory after delete all in L5 0
+Size in memory before delete all in L6 0
+Size in memory after delete all in L6 0
+Size in memory before delete all in L7 0
+Size in memory after delete all in L7 0
+Size in memory before delete all in S1 0
+Size in memory after delete all in S1 0
+Size in memory before delete all in S2 0
+Size in memory after delete all in S2 0
+Size in memory before delete all in S3 0
+Size in memory after delete all in S3 0
+Size in memory before delete all in SF 0
+Size in memory after delete all in SF 0
+||||||||||||| End log for script file tc10.txt |||||||||||||
+||||||||||||| Start log for script file tc10.txt |||||||||||||
+Size in memory after initialization 44
+Size in memory after initialization 124
+Size in memory after initialization 36
+Size in memory after initialization 4
+Size in memory before delete all in L4 40
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 120
+||||||||||||| Start log for script file tc9.txt |||||||||||||
+Size in memory after initialization 124
+Size in memory after initialization 4
+Size in memory before delete all in L5 120
+||||||||||||| Start log for script file tc8.txt |||||||||||||
+Size in memory after initialization 124
+Size in memory after initialization 36
+Size in memory before delete all in L5 120
+||||||||||||| Start log for script file tc7.txt |||||||||||||
+Size in memory after initialization 44
+Size in memory after initialization 44
+Size in memory before delete all in L3 40
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 40
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 24
+Size in memory after delete all in I2 0
+Size in memory before delete all in U2 40
+Size in memory after delete all in U2 0
+Size in memory before delete all in R2 24
+Size in memory after delete all in R2 0
+||||||||||||| Start log for script file tc6.txt |||||||||||||
+Size in memory after initialization 44
+Size in memory after initialization 44
+Size in memory before delete all in L3 40
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 40
+Size in memory after delete all in L4 0
+Size in memory before delete all in U2 40
+Size in memory after delete all in U2 0
+||||||||||||| Start log for script file tc5.txt |||||||||||||
+Size in memory after initialization 44
+Size in memory after initialization 44
+Size in memory before delete all in L3 40
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 40
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 24
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc5.txt |||||||||||||
+||||||||||||| Start log for script file tc4.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 20
+Size in memory before delete all in L1 12
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 16
+Size in memory after delete all in L2 0
+Size in memory before delete all in I1 8
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file tc4.txt |||||||||||||
+||||||||||||| Start log for script file tc3.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 20
+Size in memory before delete all in L1 12
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 16
+Size in memory after delete all in L2 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+||||||||||||| End log for script file tc3.txt |||||||||||||
+||||||||||||| Start log for script file tc2.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory before delete all in L1 12
+Size in memory after delete all in L1 0
+||||||||||||| End log for script file tc2.txt |||||||||||||
+||||||||||||| Start log for script file tc1.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory before delete all in L1 12
+Size in memory after delete all in L1 0
+||||||||||||| End log for script file tc1.txt |||||||||||||
+||||||||||||| Start log for script file tc10.txt |||||||||||||
+Size in memory after initialization 44
+Size in memory after initialization 124
+Size in memory after initialization 36
+Size in memory after initialization 4
+Size in memory before delete all in L4 40
+Size in memory after delete all in L4 0
+Size in memory before delete all in L5 120
+||||||||||||| Start log for script file tc9.txt |||||||||||||
+Size in memory after initialization 124
+Size in memory after initialization 4
+Size in memory before delete all in L5 120
+||||||||||||| Start log for script file tc8.txt |||||||||||||
+Size in memory after initialization 124
+Size in memory after initialization 36
+Size in memory before delete all in L5 120
+||||||||||||| Start log for script file tc7.txt |||||||||||||
+Size in memory after initialization 44
+Size in memory after initialization 44
+Size in memory before delete all in L3 40
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 40
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 24
+Size in memory after delete all in I2 0
+Size in memory before delete all in U2 40
+Size in memory after delete all in U2 0
+Size in memory before delete all in R2 24
+Size in memory after delete all in R2 0
+||||||||||||| Start log for script file tc6.txt |||||||||||||
+Size in memory after initialization 44
+Size in memory after initialization 44
+Size in memory before delete all in L3 40
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 40
+Size in memory after delete all in L4 0
+Size in memory before delete all in U2 40
+Size in memory after delete all in U2 0
+||||||||||||| Start log for script file tc5.txt |||||||||||||
+Size in memory after initialization 44
+Size in memory after initialization 44
+Size in memory before delete all in L3 40
+Size in memory after delete all in L3 0
+Size in memory before delete all in L4 40
+Size in memory after delete all in L4 0
+Size in memory before delete all in I2 24
+Size in memory after delete all in I2 0
+||||||||||||| End log for script file tc5.txt |||||||||||||
+||||||||||||| Start log for script file tc4.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 20
+Size in memory before delete all in L1 12
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 16
+Size in memory after delete all in L2 0
+Size in memory before delete all in I1 8
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file tc4.txt |||||||||||||
+||||||||||||| Start log for script file tc3.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory after initialization 20
+Size in memory before delete all in L1 12
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 16
+Size in memory after delete all in L2 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+||||||||||||| End log for script file tc3.txt |||||||||||||
+||||||||||||| Start log for script file tc2.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory before delete all in L1 12
+Size in memory after delete all in L1 0
+||||||||||||| End log for script file tc2.txt |||||||||||||
+||||||||||||| Start log for script file tc1.txt |||||||||||||
+Size in memory after initialization 16
+Size in memory before delete all in L1 12
+Size in memory after delete all in L1 0
+||||||||||||| End log for script file tc1.txt |||||||||||||

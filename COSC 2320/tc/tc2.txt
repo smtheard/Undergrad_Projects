@@ -1,0 +1,2 @@
+read(L1,'tc\in1.txt')
+write(L1,'out\out2.txt',reverse)

@@ -1,0 +1,8 @@
+Dog
+cat
+three
+tree
+tea
+dog
+dog
+dog

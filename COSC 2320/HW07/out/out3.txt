@@ -1,0 +1,7 @@
+tc\b3.html 1
+tc\c3.html 1
+tc\a3.html 0
+
+No Broken Links
+
+tc\c3.html Sink

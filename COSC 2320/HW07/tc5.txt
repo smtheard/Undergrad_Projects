@@ -1,0 +1,2 @@
+load(W5,'tc\flist5.txt')
+rank(W5,'out\out5.txt')

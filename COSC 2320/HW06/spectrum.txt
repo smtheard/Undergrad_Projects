@@ -1,0 +1,10 @@
+The color table should not be interpreted as a definitive list,
+the pure spectral   colors form a continuous spectrum, and
+how it is divided into  distinct colors linguistically is a matter
+of culture and historical contingency. A common list identifies
+six main bands: red, orange, yellow, green, blue, and purple.
+Newton's conception included a seventh color, indigo, between
+blue and purple. It is possible that what Newton referred to as
+blue is nearer to what we today call cyan, and that indigo was
+simply the dark blue of the indigo dye that was being imported
+at the time.   

@@ -1,0 +1,7 @@
+tc\b5.html 1
+tc\c5.html 1
+tc\a5.html 0
+
+tc\ufo.html Broken Link
+
+tc\c5.html Sink

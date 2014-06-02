@@ -1,0 +1,7 @@
+tc\b4.html 2
+tc\a4.html 1
+tc\c4.html 1
+
+tc\ufo.html Broken Link
+
+No Sinks

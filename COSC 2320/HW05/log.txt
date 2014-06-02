@@ -1,0 +1,2389 @@
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 12
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 8
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 12
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 8
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 12
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 8
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 12
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 8
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 12
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 8
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 12
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 8
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 12
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 8
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 12
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 8
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 12
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 8
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 12
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 8
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 12
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 8
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 12
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 8
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 12
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 8
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 12
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 8
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 12
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 8
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 12
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 8
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 12
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 8
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 12
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 8
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 12
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 8
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 12
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 8
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 12
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 8
+Size in memory after initialization 12
+Size in memory after initialization 20
+Size in memory before delete all in dictionary 8
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 4
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 8
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 16
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 12
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 8
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 28
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 24
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 28
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 24
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 28
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 24
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 28
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 24
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 28
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 24
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 28
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 24
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 28
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 24
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 28
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 24
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 28
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 24
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 28
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 24
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 28
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 24
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 28
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 24
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 36
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 32
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 36
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 32
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 36
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 32
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 36
+Size in memory after initialization 36
+Size in memory after initialization 36
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 32
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 36
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 32
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 36
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 32
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 36
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 32
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 36
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 32
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 36
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 32
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 36
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 32
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 36
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 32
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 108
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 104
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 108
+Size in memory after initialization 108
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 104
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 108
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 104
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 24
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 24
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 24
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 24
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 24
+Size in memory after delete all in R1 0
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 24
+Size in memory after delete all in R1 0
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 20
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 24
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 20
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 24
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 20
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 24
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 20
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 24
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 20
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 24
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 24
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 12
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 32
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 32
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 4
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 24
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 12
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 32
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 32
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 4
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 36
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 24
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 36
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 24
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 36
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 24
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 36
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 24
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 36
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 24
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 36
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 24
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 36
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 24
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 36
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 24
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 36
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 24
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 36
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 24
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 36
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 24
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 36
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 24
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 36
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 24
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 36
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 24
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 36
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 24
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 36
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 24
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 36
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 24
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 28
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 24
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||
+Size in memory after initialization 100
+||||||||||||| Start log for script file test.script |||||||||||||
+Size in memory after initialization 32
+Size in memory after initialization 16
+Size in memory after initialization 36
+Size in memory before delete all in dictionary 96
+Size in memory after delete all in dictionary 0
+Size in memory before delete all in L1 24
+Size in memory after delete all in L1 0
+Size in memory before delete all in L2 12
+Size in memory after delete all in L2 0
+Size in memory before delete all in L3 32
+Size in memory after delete all in L3 0
+Size in memory before delete all in R1 16
+Size in memory after delete all in R1 0
+Size in memory before delete all in R2 4
+Size in memory after delete all in R2 0
+Size in memory before delete all in R3 0
+Size in memory after delete all in R3 0
+Size in memory before delete all in U1 20
+Size in memory after delete all in U1 0
+Size in memory before delete all in I1 0
+Size in memory after delete all in I1 0
+||||||||||||| End log for script file test.script |||||||||||||

@@ -1,0 +1,5 @@
+g0pa_taska.txt
+g0pa_taskd.txt
+g2pa_taskd.txt
+g2pc_taskd.txt
+g3pb_taska.txt

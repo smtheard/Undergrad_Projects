@@ -1,0 +1,9 @@
+read(A,'A.txt')
+read(B,'B.txt')
+R1=A+B
+write(R1,'R1.txt')
+read(C,'C.txt')
+R2=A+B*C
+write(R2,'R2.txt')
+R3=B*C*A+B
+write(R3,'R3.txt')
