@@ -1,6 +1,0 @@
-tc\a6.html
-tc\z6.html
-tc\c6.html
-tc\d6.html
-tc\e6.html
-tc\f6.html

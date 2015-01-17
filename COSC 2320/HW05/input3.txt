@@ -1,4 +1,0 @@
-alpha beta delta zeta epsilon
-theta
-mu
-nu

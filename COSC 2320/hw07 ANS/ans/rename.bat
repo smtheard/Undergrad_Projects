@@ -1,1 +1,0 @@
-for /l %%i in (1, 1, 10) do ren "out%%i.txt" "ans%%i.txt"

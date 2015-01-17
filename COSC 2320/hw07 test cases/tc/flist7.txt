@@ -1,6 +1,0 @@
-tc\a7.html
-tc\b7.html
-tc\c7.html
-tc\d7.html
-tc\e7.html
-tc\f7.html

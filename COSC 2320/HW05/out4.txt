@@ -1,5 +1,0 @@
-alfa 2
-halpha 1
-kapa 1
-veta 1
-mega 1

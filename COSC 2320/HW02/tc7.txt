@@ -1,6 +1,0 @@
-read(L3,'tc\in3.txt')
-read(L4,'tc\in4.txt')
-intersection(L3,L4,I2)
-union(L3,L4,U2)
-intersection(I2,U2,R2)
-write(R2,'out\out7.txt',forward)

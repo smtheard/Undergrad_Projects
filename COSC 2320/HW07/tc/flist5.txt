@@ -1,3 +1,0 @@
-tc\a5.html
-tc\b5.html
-tc\c5.html

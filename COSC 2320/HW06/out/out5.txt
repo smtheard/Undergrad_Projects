@@ -1,3 +1,0 @@
-g1pb_taske.txt
-g2pb_taske.txt
-orig_taske.txt

@@ -1,6 +1,0 @@
-g0pe_taske.txt
-g1pb_taske.txt
-g2pb_taske.txt
-g3pc_taske.txt
-g4pd_taske.txt
-orig_taske.txt

@@ -1,4 +1,0 @@
-read(L3,'tc\in3.txt')
-read(L4,'tc\in4.txt')
-union(L3,L4,U2)
-write(U2,'out\out6.txt',reverse)

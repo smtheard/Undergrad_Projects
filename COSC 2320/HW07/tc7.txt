@@ -1,2 +1,0 @@
-load(W7,'tc\flist7.txt')
-rank(W7,'out\out7.txt')

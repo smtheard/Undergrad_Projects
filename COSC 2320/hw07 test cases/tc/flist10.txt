@@ -1,7 +1,0 @@
-tc\a10.html
-tc\b10.html
-tc\c10.html
-tc\d10.html
-tc\e10.html
-tc\f10.html
-tc\g10.html
